@@ -1,0 +1,56 @@
+8816 Jessica Moore France 56 COVID-19 YES 6-12-1995
+2408 Elizabeth Chapman France 8 HPV YES 23-8-2012
+590 Jennifer Patel France 110 YES 5-10-1994
+8216 Anthony Moore France 56 YES 18-4-2007
+3014 Robert Hammond France 14 Hepatitis-A NO
+5612 Thomas Martinez France 92 Smallpox YES 8-8-1997
+2504 Daniel Santiago France 104 Flu YES 22-2-2011
+8594 Andrew Khan France 74 Ebola NO
+8690 Melissa Henderson France 50 NO
+416 Anthony Moore France 56 Typhus YES 21-2-2010
+3128 Daniel Chapman France 8 Ebola NO
+2492 Thomas Martinez France 92 NO
+6992 Robert Holt France 32 Hepatitis-B NO
+1796 Jessica Robertson France 116 Smallpox YES 27-8-2016
+938 Jessica Peterson France 98 Rabies NO
+3248 Robert Chapman France 8 Hepatitis-B NO
+4784 Anthony Santiago France 104 HPV YES 23-4-2012
+9236 Melissa Robertson France 116 Hepatitis-B NO
+3710 Jennifer Patel France 110 HIV NO
+9164 Kyle Schmidt France 44 Flu NO
+9368 Daniel Chapman France 8 COVID-19 YES 4-6-1993
+8642 Brian Hart France 2 HIV NO
+2480 Brian Herbert France 80 Smallpox YES 10-2-1999
+4712 Melissa Holt France 32 Ebola YES 7-8-1996
+5360 Jason Herbert France 80 Rabies NO
+8918 Anthony White France 38 HPV YES 28-6-2017
+608 Brian Chapman France 8 Typhus NO
+9362 Jessica Hart France 2 Smallpox YES 15-10-2004
+4988 Thomas Gregory France 68 HPV NO
+1076 Brian Robertson France 116 Hepatitis-A NO
+2972 Daniel Martinez France 92 NO
+2090 Brian Henderson France 50 Hepatitis-A YES 7-8-1996
+3278 Jessica White France 38 Rabies YES 8-6-1997
+7838 Kyle White France 38 Typhus YES 17-8-2006
+2954 Elizabeth Khan France 74 NO
+2822 Andrew Cooper France 62 HPV NO
+8792 Jason Holt France 32 Ebola YES 14-10-2003
+3500 Elizabeth Holland France 20 Flu YES 4-8-1993
+2318 Jason White France 38 Hepatitis-B YES 5-4-1994
+2528 Melissa Chapman France 8 Hepatitis-B YES 18-10-2007
+9470 Melissa Patel France 110 YES 26-6-2015
+6446 Robert Duncan France 86 Flu NO
+428 Kyle Gregory France 68 Flu NO
+632 Daniel Holt France 32 Typhus YES 19-2-2008
+8030 Thomas Patel France 110 Ebola YES 2-4-1991
+4010 Melissa Henderson France 50 Hepatitis-B YES 23-8-2012
+1598 Kyle White France 38 YES 19-12-2008
+3536 Anthony Moore France 56 Hepatitis-B NO
+866 Daniel Alvarado France 26 Flu YES 16-6-2005
+9470 Melissa Patel France 110 Typhus YES 30-2-2019
+5426 Jennifer Alvarado France 26 Rabies NO
+8210 William Henderson France 50 Ebola YES 29-2-2018
+1100 Daniel Holland France 20 Hepatitis-A YES 22-4-2011
+9920 Andrew Herbert France 80 Hepatitis-A YES 8-10-1997
+1142 Robert Cooper France 62 Rabies NO
+7358 Anthony White France 38 Hepatitis-A YES 25-4-2014

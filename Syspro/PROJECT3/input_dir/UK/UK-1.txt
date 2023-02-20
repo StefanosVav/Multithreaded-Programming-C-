@@ -1,0 +1,46 @@
+6231 Adam Frazier UK 111 HPV NO
+4773 Ryan Watts UK 93 HIV NO
+5505 Joshua Mejia UK 105 Flu NO
+3669 Matthew Mcgee UK 69 NO
+6225 Nicole Mejia UK 105 Ebola NO
+6927 Nicole Kennedy UK 87 HIV NO
+8145 Kevin Mejia UK 105 COVID-19 NO
+8145 Kevin Mejia UK 105 Rabies YES 9-8-1998
+1383 Justin Simpson UK 63 Typhus YES 27-12-2016
+5817 Joshua Liu UK 57 Typhus NO
+7971 Ryan Wilson UK 51 HPV YES 2-6-1991
+9495 Justin Green UK 15 Hepatitis-A NO
+1191 Jonathan Frazier UK 111 YES 22-4-2011
+3597 David Wright UK 117 Typhus NO
+9879 John Gardner UK 39 Ebola NO
+2055 Heather Green UK 15 Flu YES 27-4-2016
+7893 Ryan Watts UK 93 NO
+4023 Joshua Simpson UK 63 Hepatitis-B YES 25-4-2014
+7989 Kevin Mcgee UK 69 Ebola NO
+2049 Jonathan Ayala UK 9 Rabies YES 6-10-1995
+351 Michael Frazier UK 111 NO
+4671 Adam Frazier UK 111 Smallpox NO
+447 Justin Kennedy UK 87 COVID-19 YES 2-4-1991
+1647 David Kennedy UK 87 Ebola YES 11-8-2000
+2625 John Mejia UK 105 Ebola YES 20-4-2009
+4287 Timothy Kennedy UK 87 Flu NO
+6795 David Dennis UK 75 COVID-19 YES 23-2-2012
+8283 Ryan Greene UK 3 Typhus YES 26-6-2015
+903 Joshua Simpson UK 63 Smallpox YES 27-8-2016
+3009 Joshua Ayala UK 9 COVID-19 YES 5-10-1994
+4743 Nicole Simpson UK 63 Smallpox YES 29-2-2018
+4875 Michael Dennis UK 75 HIV NO
+4461 Ryan Hopkins UK 21 COVID-19 YES 14-12-2003
+4101 Joshua Hopkins UK 21 Hepatitis-B YES 8-8-1997
+2091 Nicole Wilson UK 51 Ebola YES 23-6-2012
+7947 Adam Dawson UK 27 COVID-19 NO
+3519 David Gardner UK 39 Hepatitis-B YES 14-8-2003
+3321 Joshua Smith UK 81 Hepatitis-B YES 30-2-2019
+6975 Kevin Green UK 15 Flu YES 2-12-1991
+6543 Adam Simpson UK 63 COVID-19 YES 21-10-2010
+7281 Heather Smith UK 81 Ebola NO
+2109 Matthew Mcgee UK 69 Flu NO
+7779 Justin Larson UK 99 Ebola NO
+4041 Nicole Smith UK 81 Hepatitis-B YES 15-4-2004
+969 Kevin Ayala UK 9 Typhus YES 23-12-2012
+8589 David Mcgee UK 69 YES 22-6-2011

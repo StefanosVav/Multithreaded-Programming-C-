@@ -1,0 +1,57 @@
+8393 Daniel Carey Greece 113 Rabies NO
+7547 William Dawson Greece 107 COVID-19 YES 25-10-2014
+9737 Anthony Liu Greece 17 COVID-19 YES 23-8-2012
+8183 Melissa Simpson Greece 23 Hepatitis-A NO
+1409 Jennifer Ayala Greece 89 HIV NO
+3485 Andrew Adkins Greece 5 Ebola YES 19-8-2008
+7241 Anthony Smith Greece 41 Smallpox NO
+5615 Kyle Green Greece 95 Hepatitis-A NO
+3119 Kyle Gardner Greece 119 Smallpox NO
+6065 William Mejia Greece 65 Typhus NO
+2237 Andrew Wright Greece 77 YES 24-8-2013
+6473 Kyle Carey Greece 113 COVID-19 NO
+2459 Jessica Larson Greece 59 Hepatitis-B NO
+7637 Melissa Wright Greece 77 Rabies NO
+3857 Thomas Liu Greece 17 Rabies YES 6-4-1995
+1091 Kyle Wilson Greece 11 Hepatitis-A YES 18-10-2007
+9515 Kyle Dennis Greece 35 HPV YES 28-6-2017
+2363 Brian Greene Greece 83 Hepatitis-B NO
+4547 Brian Dawson Greece 107 Hepatitis-A YES 21-4-2010
+767 Anthony Kennedy Greece 47 Hepatitis-B NO
+2513 Jason Carey Greece 113 NO
+1733 Jason Watts Greece 53 Ebola NO
+9407 Daniel Kennedy Greece 47 Ebola NO
+1379 Andrew Larson Greece 59 Rabies NO
+4535 Robert Green Greece 95 Ebola YES 9-8-1998
+1691 Andrew Wilson Greece 11 COVID-19 YES 2-2-1991
+7757 Thomas Wright Greece 77 Typhus YES 14-10-2003
+2615 Jessica Green Greece 95 COVID-19 NO
+5645 Elizabeth Adkins Greece 5 Flu NO
+3407 Andrew Kennedy Greece 47 COVID-19 NO
+5777 Jennifer Liu Greece 17 Hepatitis-A YES 19-12-2008
+2009 William Ayala Greece 89 Hepatitis-B YES 8-10-1997
+2153 Daniel Carey Greece 113 Hepatitis-B YES 29-8-2018
+3083 Jessica Greene Greece 83 Typhus YES 13-10-2002
+1007 Melissa Kennedy Greece 47 COVID-19 YES 24-8-2013
+4133 Kyle Watts Greece 53 YES 1-10-1990
+161 Jennifer Smith Greece 41 Flu NO
+1109 Jason Mcgee Greece 29 Hepatitis-B NO
+7979 Brian Larson Greece 59 COVID-19 NO
+5843 Melissa Greene Greece 83 Ebola YES 7-2-1996
+551 Jennifer Frazier Greece 71 Ebola NO
+77 Kyle Wright Greece 77 YES 9-8-1998
+359 Daniel Gardner Greece 119 HIV NO
+6899 Thomas Larson Greece 59 COVID-19 NO
+6935 Melissa Green Greece 95 Typhus NO
+5729 Thomas Ayala Greece 89 Hepatitis-A YES 27-4-2016
+8423 Kyle Simpson Greece 23 YES 24-8-2013
+1205 Thomas Adkins Greece 5 Hepatitis-A YES 18-8-2007
+6881 Jason Smith Greece 41 Hepatitis-B NO
+4871 Thomas Frazier Greece 71 COVID-19 YES 11-4-2000
+2999 Thomas Gardner Greece 119 Ebola NO
+5081 Robert Smith Greece 41 Ebola YES 27-10-2016
+4307 Jason Dawson Greece 107 Ebola NO
+1571 Robert Wilson Greece 11 Flu YES 6-8-1995
+1013 Kyle Watts Greece 53 COVID-19 YES 26-12-2015
+3647 William Kennedy Greece 47 Smallpox NO
+7565 Kyle Adkins Greece 5 Rabies NO

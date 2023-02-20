@@ -1,0 +1,60 @@
+322 James Hart Canada 82 HPV YES 26-2-2015
+5356 Joseph Robertson Canada 76 HPV NO
+1402 Christina Hart Canada 82 Flu NO
+3028 Nicholas Gregory Canada 28 Flu NO
+3016 Joseph Moore Canada 16 Ebola YES 8-12-1997
+796 Brandon Robertson Canada 76 Typhus YES 24-10-2013
+7150 Joseph Patel Canada 70 Hepatitis-B NO
+4204 Megan Schmidt Canada 4 Ebola NO
+802 Stephanie Hart Canada 82 Smallpox NO
+2812 Ashley Martinez Canada 52 COVID-19 YES 6-10-1995
+6172 James Martinez Canada 52 Typhus YES 16-4-2005
+6298 Sarah Peterson Canada 58 Rabies NO
+6352 Steven Holt Canada 112 Ebola NO
+7144 Amanda Santiago Canada 64 COVID-19 YES 8-8-1997
+7366 Steven Duncan Canada 46 Smallpox NO
+7096 Christina Moore Canada 16 Hepatitis-B NO
+736 Steven Moore Canada 16 Smallpox NO
+9580 Nicholas Holland Canada 100 Hepatitis-A YES 21-2-2010
+3628 Christopher Gregory Canada 28 Ebola YES 25-10-2014
+7486 Christina Duncan Canada 46 Rabies YES 10-8-1999
+9550 Steven Patel Canada 70 Flu NO
+4762 Ashley Hart Canada 82 Ebola NO
+3718 Joseph White Canada 118 Smallpox YES 10-10-1999
+7366 Steven Duncan Canada 46 Ebola NO
+4360 Megan Herbert Canada 40 Ebola YES 10-4-1999
+6682 Joseph Hart Canada 82 Hepatitis-B YES 22-4-2011
+2896 James Moore Canada 16 Rabies NO
+3778 Steven Peterson Canada 58 Rabies NO
+868 James Gregory Canada 28 YES 6-10-1995
+5038 Amanda White Canada 118 Hepatitis-A NO
+2026 Christina Alvarado Canada 106 Hepatitis-A NO
+262 Eric Cooper Canada 22 Rabies YES 18-10-2007
+2668 Brandon Gregory Canada 28 HIV NO
+526 Sarah Duncan Canada 46 Rabies YES 29-4-2018
+4858 Stephanie Peterson Canada 58 Ebola NO
+4078 Stephanie White Canada 118 Ebola YES 4-8-1993
+8950 Sarah Patel Canada 70 HIV YES 23-6-2012
+3508 Christina Gregory Canada 28 Smallpox NO
+8224 Steven Santiago Canada 64 HPV NO
+1534 Joseph Hammond Canada 94 Hepatitis-B NO
+6340 Stephanie Holland Canada 100 Hepatitis-B YES 25-2-2014
+8578 Christina Peterson Canada 58 Ebola YES 17-6-2006
+9808 Sarah Chapman Canada 88 HPV YES 7-2-1996
+5410 Eric Henderson Canada 10 Ebola NO
+5518 Sarah White Canada 118 HPV NO
+2134 Eric Hammond Canada 94 Ebola NO
+2146 Christopher Alvarado Canada 106 Typhus NO
+1456 Joseph Moore Canada 16 YES 26-12-2015
+7294 Christopher Hammond Canada 94 Typhus YES 19-10-2008
+7462 Joseph Cooper Canada 22 Ebola NO
+9910 Ashley Patel Canada 70 Flu YES 26-2-2015
+7528 Christopher Chapman Canada 88 Flu NO
+40 Christopher Herbert Canada 40 Typhus NO
+8740 Ashley Holland Canada 100 HIV YES 22-4-2011
+2944 Sarah Santiago Canada 64 Rabies NO
+9772 Stephanie Martinez Canada 52 HPV NO
+6256 Brandon Moore Canada 16 NO
+3358 Ashley White Canada 118 COVID-19 YES 6-6-1995
+6424 Eric Santiago Canada 64 Smallpox YES 18-8-2007
+4948 Steven Gregory Canada 28 Smallpox YES 22-2-2011

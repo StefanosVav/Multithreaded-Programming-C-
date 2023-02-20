@@ -1,0 +1,56 @@
+2078 Robert White France 38 Ebola NO
+3722 Jason Hart France 2 NO
+4892 Jason Martinez France 92 Rabies YES 15-10-2004
+6626 Thomas Alvarado France 26 Hepatitis-B YES 25-6-2014
+2762 Melissa Hart France 2 HIV YES 11-10-2000
+2660 Daniel Holland France 20 Hepatitis-B YES 25-10-2014
+6140 Jason Holland France 20 Hepatitis-B NO
+4856 William Moore France 56 Hepatitis-A NO
+134 Jason Hammond France 14 Ebola NO
+4838 Jessica White France 38 Hepatitis-B NO
+7034 Andrew Khan France 74 HPV YES 30-8-2019
+3368 Andrew Chapman France 8 HPV NO
+7628 Brian Gregory France 68 Flu YES 20-10-2009
+8228 Kyle Gregory France 68 NO
+2750 William Patel France 110 Flu YES 21-12-2010
+1712 Thomas Holt France 32 NO
+9140 Andrew Holland France 20 Rabies NO
+2516 William Robertson France 116 Ebola YES 18-6-2007
+164 Daniel Schmidt France 44 HPV NO
+6110 Anthony Patel France 110 Smallpox YES 14-6-2003
+938 Jessica Peterson France 98 Smallpox NO
+6836 Robert Robertson France 116 HIV NO
+4436 Elizabeth Robertson France 116 COVID-19 YES 7-12-1996
+6518 Jennifer White France 38 COVID-19 YES 3-6-1992
+9326 Jennifer Duncan France 86 Rabies YES 11-6-2000
+5132 Brian Martinez France 92 Rabies YES 29-10-2018
+5600 Brian Herbert France 80 COVID-19 YES 13-8-2002
+3236 Kyle Robertson France 116 NO
+2048 William Chapman France 8 COVID-19 NO
+6584 Melissa Santiago France 104 Rabies NO
+2066 Kyle Alvarado France 26 Smallpox YES 26-10-2015
+3272 Thomas Holt France 32 Rabies YES 6-8-1995
+974 Kyle Hammond France 14 Hepatitis-B YES 16-2-2005
+1472 Elizabeth Holt France 32 Ebola YES 9-12-1998
+8882 Elizabeth Hart France 2 COVID-19 NO
+4166 Melissa Duncan France 86 Flu NO
+6146 Brian Alvarado France 26 NO
+1298 Robert Peterson France 98 Smallpox NO
+6926 Brian Duncan France 86 HIV YES 24-8-2013
+4478 Melissa White France 38 Smallpox YES 5-10-1994
+1322 Thomas Hart France 2 HPV YES 12-2-2001
+6344 Anthony Santiago France 104 HPV NO
+1010 Thomas Henderson France 50 Typhus NO
+3062 William Cooper France 62 Flu YES 2-4-1991
+1730 Andrew Henderson France 50 Hepatitis-A YES 2-4-1991
+3818 Thomas Peterson France 98 HPV YES 2-4-1991
+8378 Melissa Peterson France 98 COVID-19 NO
+4394 Anthony Khan France 74 Flu YES 6-10-1995
+4598 Thomas White France 38 Ebola NO
+2150 Jennifer Patel France 110 Hepatitis-A NO
+5522 Brian Hart France 2 Hepatitis-B YES 4-4-1993
+4298 Daniel Peterson France 98 COVID-19 NO
+956 William Robertson France 116 NO
+6296 Jason Moore France 56 HIV YES 26-10-2015
+5240 Andrew Herbert France 80 Hepatitis-A NO
+9932 Anthony Martinez France 92 Smallpox NO

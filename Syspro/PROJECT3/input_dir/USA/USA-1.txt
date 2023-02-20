@@ -1,0 +1,60 @@
+8814 Michael Hammond USA 54 Hepatitis-A YES 14-6-2003
+4128 Kevin Chapman USA 48 Ebola NO
+8376 Adam Moore USA 96 Rabies NO
+4194 Jonathan Khan USA 114 Ebola YES 29-10-2018
+6972 Adam Martinez USA 12 HPV NO
+1824 Adam Santiago USA 24 COVID-19 NO
+3786 Matthew Alvarado USA 66 HPV YES 27-12-2016
+6534 Jonathan Hammond USA 54 Flu YES 1-6-1990
+6420 Nicole Holland USA 60 Flu YES 10-8-1999
+6708 Michael Gregory USA 108 COVID-19 NO
+8454 Adam Hammond USA 54 Ebola NO
+2952 Heather Holt USA 72 NO
+7746 Nicole Alvarado USA 66 Rabies NO
+6726 Justin Duncan USA 6 COVID-19 YES 19-10-2008
+4152 Justin Holt USA 72 HIV YES 5-10-1994
+3642 Ryan Hart USA 42 Hepatitis-A NO
+5754 Jonathan Khan USA 114 Typhus YES 16-2-2005
+5148 Michael Gregory USA 108 Typhus NO
+5988 Jonathan Gregory USA 108 Flu NO
+3708 Matthew Gregory USA 108 Hepatitis-B YES 21-2-2010
+1836 Matthew Robertson USA 36 HPV NO
+7584 Justin Santiago USA 24 Hepatitis-B YES 6-4-1995
+3120 Michael Herbert USA 0 COVID-19 YES 17-4-2006
+18 Justin Peterson USA 18 Hepatitis-A YES 28-6-2017
+276 Matthew Robertson USA 36 Smallpox YES 6-2-1995
+8292 Nicole Martinez USA 12 Hepatitis-B NO
+9078 Adam White USA 78 Hepatitis-B NO
+750 David Patel USA 30 Flu NO
+7944 Heather Santiago USA 24 Typhus YES 28-12-2017
+4428 Jonathan Gregory USA 108 Hepatitis-B NO
+9030 Jonathan Patel USA 30 COVID-19 YES 18-10-2007
+3540 Adam Holland USA 60 Hepatitis-A YES 5-10-1994
+1074 Jonathan Khan USA 114 HIV NO
+3282 Joshua Hart USA 42 Ebola YES 25-4-2014
+6354 Timothy Khan USA 114 COVID-19 YES 30-12-2019
+492 Nicole Martinez USA 12 Hepatitis-A YES 9-4-1998
+8724 Heather Schmidt USA 84 HPV YES 29-10-2018
+6318 Michael White USA 78 Ebola NO
+9330 David Henderson USA 90 HPV YES 25-6-2014
+1554 Kevin Khan USA 114 Smallpox YES 15-8-2004
+5910 Jonathan Patel USA 30 Smallpox NO
+5538 Michael Peterson USA 18 YES 4-8-1993
+5586 David Alvarado USA 66 COVID-19 NO
+6852 Heather Martinez USA 12 HPV NO
+7464 Ryan Santiago USA 24 Typhus YES 2-10-1991
+276 Matthew Robertson USA 36 Rabies NO
+8586 Joshua Alvarado USA 66 HIV NO
+9840 John Herbert USA 0 NO
+7740 Justin Holland USA 60 Smallpox YES 22-2-2011
+624 Michael Santiago USA 24 HPV YES 9-12-1998
+8040 Joshua Herbert USA 0 YES 22-8-2011
+750 David Patel USA 30 YES 4-12-1993
+9150 Nicole Patel USA 30 Hepatitis-A NO
+8064 Adam Santiago USA 24 HIV NO
+4014 Timothy Hammond USA 54 HPV YES 20-8-2009
+4086 Adam Duncan USA 6 Smallpox NO
+234 Michael Khan USA 114 YES 26-12-2015
+1770 Ryan Henderson USA 90 Flu NO
+6036 Adam Robertson USA 36 HPV YES 29-12-2018
+2220 Timothy Holland USA 60 HIV NO

@@ -1,0 +1,57 @@
+8003 Daniel Greene Greece 83 HIV YES 14-10-2003
+2495 Kyle Green Greece 95 YES 14-6-2003
+1091 Kyle Wilson Greece 11 HPV YES 26-2-2015
+7889 Robert Ayala Greece 89 Smallpox NO
+1319 Melissa Gardner Greece 119 Typhus NO
+9317 Thomas Wright Greece 77 COVID-19 YES 27-10-2016
+8981 Robert Hopkins Greece 101 NO
+11 Robert Wilson Greece 11 Flu NO
+3341 Anthony Hopkins Greece 101 NO
+5021 Elizabeth Hopkins Greece 101 HIV YES 21-12-2010
+5129 William Ayala Greece 89 Smallpox NO
+2975 Robert Green Greece 95 Smallpox NO
+9971 Anthony Wilson Greece 11 Ebola NO
+4085 Elizabeth Adkins Greece 5 HIV NO
+8825 Robert Mejia Greece 65 Ebola NO
+6875 Robert Dennis Greece 35 Ebola NO
+299 Anthony Larson Greece 59 Flu YES 1-12-1990
+773 Melissa Watts Greece 53 Typhus NO
+653 Elizabeth Watts Greece 53 Flu YES 28-8-2017
+7385 Andrew Mejia Greece 65 Hepatitis-A NO
+2807 Kyle Kennedy Greece 47 COVID-19 NO
+7529 Jessica Ayala Greece 89 HPV YES 13-6-2002
+1325 Kyle Adkins Greece 5 Flu NO
+6785 Kyle Mejia Greece 65 HPV YES 8-12-1997
+2849 Jessica Ayala Greece 89 Ebola YES 20-4-2009
+5693 Kyle Watts Greece 53 HPV YES 12-10-2001
+5381 Kyle Hopkins Greece 101 Hepatitis-B NO
+6437 Jessica Wright Greece 77 Rabies NO
+7535 Daniel Green Greece 95 Ebola YES 20-2-2009
+1157 Anthony Wright Greece 77 Flu YES 17-6-2006
+2489 Melissa Ayala Greece 89 Hepatitis-A NO
+1727 Robert Kennedy Greece 47 Ebola NO
+3665 Kyle Mejia Greece 65 Rabies YES 30-2-2019
+1679 Jessica Gardner Greece 119 NO
+2681 Elizabeth Smith Greece 41 Ebola YES 27-2-2016
+8057 Brian Liu Greece 17 YES 7-8-1996
+5879 Elizabeth Gardner Greece 119 HPV NO
+7163 Anthony Greene Greece 83 COVID-19 NO
+8591 Robert Frazier Greece 71 HPV NO
+2519 Brian Gardner Greece 119 Hepatitis-B NO
+5771 Kyle Wilson Greece 11 COVID-19 YES 9-8-1998
+29 Elizabeth Mcgee Greece 29 Smallpox NO
+1703 Anthony Simpson Greece 23 Hepatitis-B YES 26-8-2015
+1781 Anthony Hopkins Greece 101 Hepatitis-A NO
+1499 Jason Larson Greece 59 Hepatitis-A YES 27-6-2016
+3287 Robert Kennedy Greece 47 Hepatitis-B YES 5-2-1994
+5609 Melissa Ayala Greece 89 Hepatitis-A NO
+2345 Jennifer Mejia Greece 65 COVID-19 NO
+9041 Melissa Smith Greece 41 Flu YES 22-4-2011
+4883 Daniel Greene Greece 83 Rabies YES 26-10-2015
+803 Brian Greene Greece 83 Hepatitis-B NO
+911 Andrew Frazier Greece 71 YES 17-10-2006
+773 Melissa Watts Greece 53 Smallpox YES 2-2-1991
+8201 Robert Smith Greece 41 Smallpox NO
+3365 Robert Adkins Greece 5 Typhus YES 6-6-1995
+485 Jason Adkins Greece 5 NO
+5897 Daniel Liu Greece 17 HPV YES 15-10-2004

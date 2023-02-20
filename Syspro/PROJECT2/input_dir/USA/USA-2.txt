@@ -1,0 +1,59 @@
+4236 Nicole Robertson USA 36 Hepatitis-B YES 23-12-2012
+6144 Jonathan Santiago USA 24 HIV NO
+8196 Joshua Robertson USA 36 NO
+2046 Justin Duncan USA 6 Typhus YES 19-12-2008
+9882 Ryan Hart USA 42 Flu NO
+2640 Heather Herbert USA 0 Hepatitis-A YES 18-6-2007
+5094 Nicole Hammond USA 54 Ebola YES 23-4-2012
+4572 David Martinez USA 12 Rabies NO
+5106 Timothy Alvarado USA 66 Flu NO
+4002 Nicole Hart USA 42 HIV YES 18-4-2007
+5244 Justin Schmidt USA 84 Flu NO
+8298 Adam Peterson USA 18 Typhus NO
+8220 Adam Holland USA 60 Hepatitis-A NO
+7428 Justin Gregory USA 108 Hepatitis-A YES 24-10-2013
+8172 Jonathan Martinez USA 12 HPV NO
+3474 Matthew Khan USA 114 Ebola YES 27-12-2016
+4500 Ryan Holland USA 60 COVID-19 YES 9-2-1998
+3522 John Hart USA 42 Hepatitis-A YES 20-12-2009
+1470 Heather Patel USA 30 Typhus NO
+4782 Nicole Cooper USA 102 Hepatitis-A YES 21-8-2010
+9834 Joshua Khan USA 114 HIV NO
+7872 Kevin Holt USA 72 YES 16-6-2005
+480 John Herbert USA 0 COVID-19 YES 1-12-1990
+6558 Joshua White USA 78 COVID-19 NO
+48 David Chapman USA 48 Flu YES 27-2-2016
+756 Ryan Robertson USA 36 HPV NO
+5742 David Cooper USA 102 Smallpox YES 8-8-1997
+2502 Joshua Cooper USA 102 Typhus YES 9-2-1998
+7596 Adam Robertson USA 36 Rabies NO
+486 Justin Duncan USA 6 COVID-19 YES 17-12-2006
+8052 Justin Martinez USA 12 Typhus YES 13-6-2002
+6384 Heather Santiago USA 24 Typhus YES 28-4-2017
+846 Heather Duncan USA 6 Flu NO
+4644 Matthew Schmidt USA 84 HIV YES 28-10-2017
+1998 David White USA 78 Hepatitis-B NO
+6924 Jonathan Schmidt USA 84 HPV YES 24-10-2013
+7098 Michael Peterson USA 18 HPV NO
+384 Kevin Santiago USA 24 Ebola NO
+9270 Heather Patel USA 30 Hepatitis-A NO
+984 David Santiago USA 24 Ebola YES 21-6-2010
+3528 Justin Chapman USA 48 Hepatitis-B YES 22-2-2011
+4746 Heather Alvarado USA 66 Typhus NO
+3228 Adam Gregory USA 108 Typhus YES 15-8-2004
+6888 Nicole Chapman USA 48 COVID-19 NO
+2562 Heather Hart USA 42 Hepatitis-A YES 8-6-1997
+7602 Timothy Hart USA 42 Smallpox NO
+4710 Adam Patel USA 30 HIV YES 2-4-1991
+9504 Heather Santiago USA 24 Typhus YES 26-12-2015
+3756 John Robertson USA 36 Ebola NO
+4038 Jonathan White USA 78 Hepatitis-A NO
+4314 Nicole Khan USA 114 Rabies NO
+2016 Heather Moore USA 96 Typhus NO
+912 Ryan Holt USA 72 Hepatitis-B NO
+5106 Timothy Alvarado USA 66 COVID-19 NO
+4812 Ryan Martinez USA 12 Typhus YES 6-4-1995
+8778 Matthew Peterson USA 18 Smallpox YES 20-12-2009
+564 Justin Schmidt USA 84 NO
+1254 Joshua Hammond USA 54 HIV YES 10-12-1999
+6282 Matthew Hart USA 42 HIV NO

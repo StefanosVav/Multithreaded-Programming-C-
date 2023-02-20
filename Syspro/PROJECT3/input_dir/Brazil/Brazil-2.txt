@@ -1,0 +1,54 @@
+8389 Ashley Mcgee Brazil 109 COVID-19 YES 13-10-2002
+853 Steven Watts Brazil 13 COVID-19 NO
+1753 Christina Carey Brazil 73 Hepatitis-B NO
+5245 Sarah Adkins Brazil 85 HPV YES 9-4-1998
+6805 Sarah Adkins Brazil 85 Hepatitis-A YES 19-10-2008
+7315 Stephanie Dennis Brazil 115 HIV NO
+3403 James Greene Brazil 43 YES 18-12-2007
+5365 Stephanie Adkins Brazil 85 HIV NO
+7207 Megan Kennedy Brazil 7 COVID-19 YES 19-6-2008
+301 Eric Hopkins Brazil 61 Typhus YES 13-8-2002
+5185 Christina Mejia Brazil 25 Flu NO
+2701 James Hopkins Brazil 61 COVID-19 NO
+3319 Ashley Gardner Brazil 79 Hepatitis-B NO
+5929 Christopher Ayala Brazil 49 Smallpox NO
+943 Amanda Simpson Brazil 103 Hepatitis-A YES 26-12-2015
+3613 Nicholas Watts Brazil 13 Flu YES 14-12-2003
+4951 Christina Frazier Brazil 31 COVID-19 NO
+3313 Christina Carey Brazil 73 COVID-19 YES 17-8-2006
+2743 Joseph Simpson Brazil 103 Flu NO
+1183 Joseph Simpson Brazil 103 Typhus YES 13-2-2002
+1003 Eric Greene Brazil 43 HPV NO
+4867 Megan Dawson Brazil 67 Typhus YES 3-4-1992
+5467 Amanda Dawson Brazil 67 NO
+1981 Megan Hopkins Brazil 61 YES 29-4-2018
+4045 Eric Adkins Brazil 85 Typhus NO
+4189 Brandon Mcgee Brazil 109 Ebola NO
+1423 Sarah Simpson Brazil 103 Ebola NO
+1915 Ashley Dennis Brazil 115 Hepatitis-A NO
+919 Stephanie Gardner Brazil 79 Hepatitis-B NO
+9643 James Greene Brazil 43 Hepatitis-A NO
+4327 Christina Kennedy Brazil 7 COVID-19 NO
+1291 Ashley Wilson Brazil 91 Typhus YES 23-10-2012
+2413 Steven Watts Brazil 13 Hepatitis-A YES 1-12-1990
+2287 Nicholas Kennedy Brazil 7 Typhus NO
+7087 Eric Kennedy Brazil 7 Typhus NO
+4327 Christina Kennedy Brazil 7 Rabies NO
+1387 Stephanie Dawson Brazil 67 Hepatitis-A YES 6-4-1995
+5461 Christopher Hopkins Brazil 61 Ebola YES 22-4-2011
+637 Joseph Wright Brazil 37 Typhus YES 27-12-2016
+9067 Sarah Dawson Brazil 67 HPV NO
+4549 Nicholas Mcgee Brazil 109 Hepatitis-A NO
+2893 Amanda Watts Brazil 13 Hepatitis-B YES 23-8-2012
+9781 Megan Hopkins Brazil 61 Rabies YES 24-2-2013
+3547 Christina Dawson Brazil 67 COVID-19 NO
+223 Eric Simpson Brazil 103 Hepatitis-B YES 3-6-1992
+5761 Eric Smith Brazil 1 HPV NO
+3007 Ashley Kennedy Brazil 7 Typhus YES 26-10-2015
+8659 Christopher Larson Brazil 19 Hepatitis-B NO
+589 Ashley Mcgee Brazil 109 COVID-19 NO
+919 Stephanie Gardner Brazil 79 COVID-19 YES 2-10-1991
+427 Christina Dawson Brazil 67 Hepatitis-B NO
+5917 Eric Wright Brazil 37 YES 26-6-2015
+811 Megan Wilson Brazil 91 Smallpox NO
+9319 Christina Gardner Brazil 79 Rabies YES 7-12-1996

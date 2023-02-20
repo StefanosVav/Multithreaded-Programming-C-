@@ -1,0 +1,61 @@
+4558 Steven White Canada 118 Flu NO
+5944 Brandon Santiago Canada 64 Hepatitis-B NO
+1138 Amanda Peterson Canada 58 Rabies YES 21-6-2010
+4912 Christina Holt Canada 112 COVID-19 YES 16-6-2005
+8080 Amanda Herbert Canada 40 Hepatitis-B YES 16-2-2005
+8050 Brandon Henderson Canada 10 YES 30-8-2019
+4120 Nicholas Herbert Canada 40 Typhus YES 6-8-1995
+7330 Christina Henderson Canada 10 Hepatitis-B YES 18-12-2007
+6058 Joseph Peterson Canada 58 Ebola NO
+7960 Ashley Herbert Canada 40 COVID-19 NO
+2296 Steven Moore Canada 16 Rabies YES 1-2-1990
+3400 Amanda Herbert Canada 40 Flu NO
+562 Brandon Hart Canada 82 NO
+6574 Stephanie Hammond Canada 94 COVID-19 YES 6-6-1995
+682 Sarah Hart Canada 82 Typhus NO
+5848 Christina Chapman Canada 88 Hepatitis-A YES 6-2-1995
+8614 Steven Hammond Canada 94 Ebola YES 17-4-2006
+616 Megan Moore Canada 16 Ebola NO
+1012 Christina Martinez Canada 52 Typhus YES 8-12-1997
+7750 Eric Patel Canada 70 HPV NO
+1342 Brandon Cooper Canada 22 Hepatitis-A NO
+4150 Brandon Patel Canada 70 COVID-19 YES 13-8-2002
+4696 Brandon Moore Canada 16 Hepatitis-A NO
+1630 Megan Patel Canada 70 Ebola NO
+2632 Sarah Holt Canada 112 Flu YES 7-4-1996
+1954 Ashley Khan Canada 34 Hepatitis-A NO
+7102 Ashley Cooper Canada 22 Hepatitis-A NO
+4198 Nicholas White Canada 118 Flu NO
+3742 Christina Cooper Canada 22 Rabies YES 11-8-2000
+1006 Megan Duncan Canada 46 HIV NO
+9382 Stephanie Cooper Canada 22 HIV NO
+8596 Brandon Robertson Canada 76 HPV NO
+4240 Eric Herbert Canada 40 Ebola YES 2-8-1991
+8248 Sarah Chapman Canada 88 NO
+9592 Christina Holt Canada 112 YES 20-10-2009
+7618 Joseph Peterson Canada 58 Ebola YES 13-2-2002
+1570 James Henderson Canada 10 COVID-19 YES 19-2-2008
+2044 Brandon Schmidt Canada 4 HPV YES 9-12-1998
+2278 Brandon White Canada 118 Flu YES 12-8-2001
+6616 Nicholas Moore Canada 16 YES 10-4-1999
+3724 Sarah Schmidt Canada 4 COVID-19 NO
+2590 Brandon Patel Canada 70 Flu NO
+3220 Stephanie Holland Canada 100 Hepatitis-B NO
+3892 Megan Martinez Canada 52 NO
+1924 Joseph Schmidt Canada 4 Hepatitis-A NO
+4942 Eric Cooper Canada 22 Smallpox YES 1-10-1990
+4180 Amanda Holland Canada 100 HIV YES 25-10-2014
+8998 Eric White Canada 118 Hepatitis-A YES 13-12-2002
+5962 Steven Hart Canada 82 Hepatitis-A YES 19-12-2008
+3088 Amanda Chapman Canada 88 Smallpox NO
+7402 Megan Hart Canada 82 Rabies NO
+9016 Amanda Moore Canada 16 HIV NO
+9016 Amanda Moore Canada 16 Hepatitis-A NO
+4012 Steven Martinez Canada 52 Ebola YES 24-10-2013
+274 Christopher Khan Canada 34 Flu NO
+1132 Christopher Martinez Canada 52 Typhus NO
+9556 Christopher Robertson Canada 76 Smallpox YES 8-2-1997
+1066 Joseph Alvarado Canada 106 HIV NO
+6100 Brandon Holland Canada 100 Typhus YES 2-4-1991
+7444 Steven Schmidt Canada 4 Typhus NO
+6448 Joseph Chapman Canada 88 Smallpox NO

@@ -1,0 +1,46 @@
+2505 David Mejia UK 105 Rabies NO
+8817 Matthew Liu UK 57 HPV NO
+1689 John Ayala UK 9 Flu YES 15-4-2004
+201 Joshua Smith UK 81 COVID-19 YES 6-4-1995
+3021 Justin Hopkins UK 21 Ebola YES 5-10-1994
+2625 John Mejia UK 105 Rabies YES 8-10-1997
+1581 Jonathan Hopkins UK 21 Hepatitis-A NO
+9981 Timothy Hopkins UK 21 Ebola YES 23-12-2012
+417 Heather Liu UK 57 Hepatitis-A NO
+5853 Matthew Watts UK 93 Ebola NO
+8025 Adam Mejia UK 105 Typhus NO
+9393 Kevin Carey UK 33 Smallpox NO
+7281 Heather Smith UK 81 Hepatitis-A YES 6-12-1995
+903 Joshua Simpson UK 63 Smallpox YES 26-4-2015
+5859 David Larson UK 99 Flu NO
+3369 Ryan Ayala UK 9 HPV YES 14-2-2003
+9729 Justin Ayala UK 9 Ebola YES 12-2-2001
+8655 Timothy Green UK 15 Smallpox YES 1-2-1990
+2649 Timothy Ayala UK 9 Ebola NO
+7473 Nicole Carey UK 33 Ebola NO
+219 Nicole Larson UK 99 Typhus YES 17-12-2006
+9201 Timothy Smith UK 81 YES 27-6-2016
+2409 Adam Ayala UK 9 Ebola YES 29-6-2018
+3045 Matthew Adkins UK 45 Flu YES 28-2-2017
+9555 Michael Dennis UK 75 HPV NO
+7173 Timothy Watts UK 93 Smallpox YES 6-4-1995
+7143 Joshua Simpson UK 63 COVID-19 YES 17-4-2006
+9279 Timothy Gardner UK 39 YES 23-10-2012
+4917 Matthew Wright UK 117 YES 29-4-2018
+6921 Justin Smith UK 81 YES 15-2-2004
+471 Matthew Frazier UK 111 Hepatitis-A NO
+8745 David Mejia UK 105 Rabies YES 23-6-2012
+1125 Kevin Adkins UK 45 Hepatitis-B YES 28-10-2017
+2325 Nicole Adkins UK 45 Ebola NO
+2769 Michael Ayala UK 9 HPV NO
+1695 Justin Green UK 15 Ebola YES 20-12-2009
+1665 Heather Mejia UK 105 Hepatitis-B NO
+5085 Ryan Adkins UK 45 Hepatitis-B YES 20-4-2009
+3651 Nicole Wilson UK 51 Smallpox NO
+8007 John Kennedy UK 87 Ebola NO
+903 Joshua Simpson UK 63 NO
+2397 Justin Wright UK 117 HIV YES 28-12-2017
+8757 Jonathan Wright UK 117 HPV YES 24-2-2013
+9177 John Liu UK 57 Hepatitis-A NO
+7551 Nicole Frazier UK 111 COVID-19 NO
+8445 Jonathan Adkins UK 45 Hepatitis-A NO

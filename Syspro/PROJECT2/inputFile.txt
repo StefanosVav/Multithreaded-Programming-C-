@@ -1,0 +1,500 @@
+295 Stephanie Green Canada 55 Hepatitis-B NO
+3251 Andrew Wilson Greece 11 HPV YES 6-8-1995
+4604 Jessica Schmidt Brazil 44 Hanta YES 15-4-2004
+1204 Steven Schmidt UK 4 Hanta NO
+3911 Robert Frazier Greece 71 Hepatitis-A NO
+4674 Kevin Khan USA 114 Marburg NO
+2359 Sarah Gardner Canada 79 Hepatitis-D NO
+728 Anthony Chapman Brazil 8 HIV YES 1-10-1990
+4940 Anthony Holland Brazil 20 Smallpox YES 14-8-2003
+6042 Timothy Hart USA 42 Dengue NO
+8207 Jason Kennedy Greece 47 Hepatitis-D NO
+613 Eric Watts Canada 13 Ebola YES 10-12-1999
+2696 Jennifer Moore Brazil 56 Anthrax NO
+5754 Jonathan Khan USA 114 Junin YES 22-10-2011
+4659 Justin Larson France 99 Anaplasmosis NO
+7390 Sarah Patel UK 70 Flu YES 25-12-2014
+1984 Steven Santiago UK 64 Ebola YES 20-8-2009
+3675 David Dennis France 75 Dengue YES 27-4-2016
+2037 David Wright France 117 COVID-19 YES 10-10-1999
+7466 Jason Alvarado Brazil 26 Hepatitis-B YES 19-12-2008
+2376 Timothy Moore USA 96 Junin YES 12-10-2001
+2995 Megan Dennis Canada 115 Dengue NO
+2535 Michael Green France 15 Dengue YES 7-12-1996
+2562 Heather Hart USA 42 Hepatitis-A YES 27-12-2016
+8916 Nicole Robertson USA 36 Marburg NO
+8324 Jason Schmidt Brazil 44 Anaplasmosis YES 6-10-1995
+3625 Christina Mejia Canada 25 Anthrax YES 8-10-1997
+8518 Brandon White UK 118 HPV NO
+3808 Nicholas Chapman UK 88 HIV YES 11-10-2000
+8907 Ryan Dawson France 27 Hepatitis-E YES 19-4-2008
+5663 Daniel Simpson Greece 23 Flu YES 5-8-1994
+1631 Melissa Frazier Greece 71 HPV YES 6-12-1995
+4647 Joshua Kennedy France 87 Hepatitis-C YES 4-12-1993
+1911 Michael Frazier France 111 Hepatitis-E YES 9-12-1998
+4663 Stephanie Simpson Canada 103 Hepatitis-B YES 19-8-2008
+8872 Sarah Holt UK 112 Dengue NO
+7114 Brandon Khan UK 34 Typhus NO
+6528 Ryan Chapman USA 48 Rabies YES 23-2-2012
+3654 Heather Hammond USA 54 Hepatitis-A NO
+987 John Dawson France 27 Hepatitis-D NO
+3953 Andrew Carey Greece 113 Hepatitis-B YES 9-6-1998
+383 Melissa Simpson Greece 23 Dengue YES 27-12-2016
+8739 Matthew Larson France 99 Hepatitis-C YES 4-4-1993
+293 William Watts Greece 53 Dengue NO
+6661 Megan Hopkins Canada 61 Flu NO
+1066 Joseph Alvarado UK 106 Marburg NO
+3218 William Peterson Brazil 98 Marburg NO
+9854 Anthony Hammond Brazil 14 Hepatitis-E YES 29-8-2018
+185 Elizabeth Mejia Greece 65 Hepatitis-E NO
+9281 Kyle Smith Greece 41 Rabies NO
+715 Joseph Dennis Canada 115 Hepatitis-B YES 9-6-1998
+6516 Matthew Robertson USA 36 Hepatitis-C YES 24-4-2013
+2511 Ryan Frazier France 111 Smallpox YES 24-6-2013
+7225 James Mejia Canada 25 Hepatitis-A YES 27-12-2016
+1139 Daniel Larson Greece 59 Smallpox NO
+2734 Ashley Hammond UK 94 Flu NO
+6285 Joshua Adkins France 45 Hepatitis-A YES 7-8-1996
+5353 James Carey Canada 73 Hepatitis-A NO
+5011 Sarah Wilson Canada 91 Hepatitis-B NO
+239 Jennifer Gardner Greece 119 Hanta NO
+3148 Eric Gregory UK 28 Hepatitis-B YES 29-10-2018
+6588 Timothy Gregory USA 108 HIV YES 1-8-1990
+4187 Andrew Dawson Greece 107 HIV NO
+4897 Stephanie Liu Canada 97 Guaroa YES 8-4-1997
+5338 Steven Peterson UK 58 Typhus NO
+7703 William Simpson Greece 23 Typhus YES 22-2-2011
+5369 Anthony Ayala Greece 89 Hepatitis-A YES 17-6-2006
+9010 Christopher Henderson UK 10 Typhus YES 12-6-2001
+7826 Anthony Alvarado Brazil 26 Dengue NO
+182 Anthony Cooper Brazil 62 Hepatitis-A YES 17-10-2006
+4385 Jason Mejia Greece 65 Hepatitis-A YES 27-2-2016
+5374 Megan Hammond UK 94 Hepatitis-E NO
+6007 Christopher Kennedy Canada 7 Junin NO
+8299 Megan Larson Canada 19 Marburg YES 23-8-2012
+1499 Jason Larson Greece 59 Hepatitis-D NO
+9283 Christopher Greene Canada 43 Anthrax YES 8-6-1997
+5271 Joshua Frazier France 111 HIV YES 11-12-2000
+7833 Kevin Carey France 33 Marburg YES 13-2-2002
+398 Daniel White Brazil 38 Flu NO
+5379 Timothy Larson France 99 Hanta YES 25-10-2014
+2643 Adam Greene France 3 Anaplasmosis YES 16-10-2005
+7422 John Cooper USA 102 Ebola YES 30-6-2019
+2293 Megan Watts Canada 13 Hepatitis-E NO
+8641 Stephanie Smith Canada 1 Hepatitis-E YES 19-8-2008
+8602 Stephanie Hart UK 82 Junin YES 2-6-1991
+1886 Andrew Duncan Brazil 86 Dengue YES 17-12-2006
+4631 Elizabeth Frazier Greece 71 HPV NO
+2590 Brandon Patel UK 70 Guaroa YES 28-10-2017
+1711 Steven Frazier Canada 31 Hepatitis-A YES 17-4-2006
+7799 Kyle Gardner Greece 119 Hepatitis-E NO
+1226 Jason Alvarado Brazil 26 HPV NO
+2510 Andrew Patel Brazil 110 Typhus NO
+5415 Kevin Green France 15 HIV YES 1-12-1990
+456 Heather Moore USA 96 Ebola NO
+3706 Christopher Alvarado UK 106 Smallpox YES 4-6-1993
+4423 Brandon Simpson Canada 103 Rabies NO
+9267 Nicole Dawson France 27 Hepatitis-D NO
+4362 Kevin Hart USA 42 Hepatitis-D NO
+5198 Robert White Brazil 38 Flu YES 15-8-2004
+5845 Steven Adkins Canada 85 Hanta NO
+2197 Joseph Wright Canada 37 Typhus YES 12-8-2001
+7232 Jason Holt Brazil 32 HIV NO
+7681 Christina Smith Canada 1 Hanta YES 15-8-2004
+3666 Michael Alvarado USA 66 Typhus NO
+9597 Matthew Wright France 117 HPV YES 26-6-2015
+4320 Adam Herbert USA 0 Guaroa NO
+2901 Ryan Hopkins France 21 Hepatitis-D YES 11-6-2000
+2428 James Gregory UK 28 Marburg YES 23-6-2012
+1081 Eric Smith Canada 1 HIV NO
+2760 Adam Herbert USA 0 Hanta YES 25-8-2014
+5054 Brian Hammond Brazil 14 HPV YES 16-12-2005
+9116 Elizabeth Robertson Brazil 116 Hepatitis-B YES 19-6-2008
+4484 Kyle Schmidt Brazil 44 Anthrax NO
+20 William Holland Brazil 20 Junin NO
+4113 Justin Carey France 33 Marburg NO
+758 Jason White Brazil 38 Hanta NO
+5857 Amanda Liu Canada 97 Flu NO
+3150 Adam Patel USA 30 Dengue NO
+8952 Jonathan Holt USA 72 Hepatitis-B NO
+1912 Christopher Holt UK 112 Hepatitis-E YES 19-8-2008
+244 James Schmidt UK 4 Typhus YES 2-8-1991
+3874 Joseph Khan UK 34 Hepatitis-E NO
+7019 Kyle Larson Greece 59 Smallpox YES 14-10-2003
+5677 Stephanie Wright Canada 37 HPV NO
+7450 Christopher Henderson UK 10 Rabies YES 3-2-1992
+7454 Jennifer Hammond Brazil 14 Rabies NO
+6786 Michael Alvarado USA 66 Smallpox NO
+3934 Steven Hammond UK 94 Flu YES 5-6-1994
+6352 Steven Holt UK 112 Guaroa NO
+2091 Nicole Wilson France 51 Hanta NO
+2971 Amanda Wilson Canada 91 Hanta YES 25-12-2014
+7126 Eric Duncan UK 46 Marburg YES 13-6-2002
+2238 Ryan White USA 78 Hepatitis-C YES 4-6-1993
+2945 William Mejia Greece 65 HIV YES 11-10-2000
+7971 Ryan Wilson France 51 Typhus NO
+3913 Joseph Carey Canada 73 HPV YES 16-2-2005
+1212 Matthew Martinez USA 12 Hepatitis-D YES 11-12-2000
+2294 Melissa Hammond Brazil 14 COVID-19 YES 10-2-1999
+519 John Gardner France 39 Hepatitis-E NO
+1428 Nicole Gregory USA 108 Hepatitis-C NO
+7834 Steven Khan UK 34 COVID-19 NO
+5506 Amanda Alvarado UK 106 Marburg NO
+8052 Justin Martinez USA 12 Anthrax YES 18-8-2007
+303 Adam Simpson France 63 Hanta NO
+8760 Nicole Herbert USA 0 Smallpox YES 4-4-1993
+309 Timothy Mcgee France 69 Marburg NO
+1199 Elizabeth Gardner Greece 119 Dengue NO
+6589 Christina Mcgee Canada 109 HIV NO
+7368 Timothy Chapman USA 48 COVID-19 YES 10-8-1999
+5586 David Alvarado USA 66 Anthrax NO
+2035 Amanda Dennis Canada 115 HPV YES 6-2-1995
+9703 Megan Simpson Canada 103 Dengue YES 27-6-2016
+1704 Heather Santiago USA 24 Ebola NO
+1697 William Liu Greece 17 Anthrax YES 18-10-2007
+323 Robert Greene Greece 83 HIV NO
+7706 Brian Alvarado Brazil 26 Hepatitis-C YES 24-2-2013
+1149 Justin Mcgee France 69 Ebola YES 20-10-2009
+938 Jessica Peterson Brazil 98 Anthrax NO
+898 Christopher Peterson UK 58 HPV YES 6-12-1995
+8129 Jason Ayala Greece 89 COVID-19 YES 30-4-2019
+9368 Daniel Chapman Brazil 8 Marburg NO
+6476 Jessica Robertson Brazil 116 Flu YES 5-4-1994
+575 Elizabeth Green Greece 95 Flu NO
+1998 David White USA 78 Hepatitis-B NO
+2281 Sarah Smith Canada 1 HIV YES 11-6-2000
+1852 Sarah Martinez UK 52 Hanta NO
+8916 Nicole Robertson USA 36 COVID-19 NO
+5928 Michael Chapman USA 48 Dengue NO
+7782 Jonathan Cooper USA 102 Hepatitis-B NO
+8292 Nicole Martinez USA 12 Typhus YES 12-10-2001
+9060 John Holland USA 60 Hepatitis-A NO
+7984 Eric Santiago UK 64 Hepatitis-D YES 21-4-2010
+6752 Jennifer Holt Brazil 32 HPV YES 26-2-2015
+5446 Nicholas Duncan UK 46 HIV NO
+8610 Adam Henderson USA 90 Typhus NO
+463 Steven Simpson Canada 103 Anthrax YES 8-8-1997
+8937 Joshua Liu France 57 Hepatitis-C YES 24-2-2013
+6719 Robert Gardner Greece 119 Hepatitis-E NO
+4438 Megan White UK 118 Hepatitis-C YES 14-2-2003
+81 Matthew Smith France 81 Marburg NO
+5557 Sarah Wright Canada 37 Ebola NO
+2035 Amanda Dennis Canada 115 Ebola NO
+7790 Elizabeth Patel Brazil 110 Junin NO
+8577 Timothy Liu France 57 Ebola YES 20-12-2009
+15 Ryan Green France 15 Flu YES 5-4-1994
+4832 Thomas Holt Brazil 32 Rabies YES 23-8-2012
+4635 Kevin Dennis France 75 Ebola YES 20-8-2009
+9797 Daniel Wright Greece 77 Hepatitis-C NO
+8181 Adam Hopkins France 21 Anthrax NO
+2735 Jennifer Green Greece 95 Smallpox YES 24-12-2013
+2479 Stephanie Gardner Canada 79 Anaplasmosis YES 26-4-2015
+3820 Christina Holland UK 100 Hepatitis-B NO
+2587 Joseph Dawson Canada 67 Hepatitis-C NO
+4466 William Alvarado Brazil 26 COVID-19 NO
+1365 Michael Adkins France 45 HPV NO
+6308 Elizabeth Gregory Brazil 68 Guaroa NO
+4752 Kevin Holt USA 72 Hanta YES 15-2-2004
+6386 Elizabeth Alvarado Brazil 26 Smallpox NO
+8956 Nicholas Robertson UK 76 Ebola YES 10-8-1999
+3677 Robert Wright Greece 77 HIV NO
+2776 Amanda Moore UK 16 Hepatitis-A YES 7-10-1996
+2534 Kyle Hammond Brazil 14 Smallpox YES 14-10-2003
+945 David Mejia France 105 Smallpox NO
+662 Kyle Cooper Brazil 62 Hepatitis-A NO
+8543 Jessica Simpson Greece 23 Hepatitis-E YES 19-6-2008
+8054 William Hammond Brazil 14 HIV YES 1-10-1990
+1341 Ryan Hopkins France 21 Typhus YES 2-8-1991
+300 Heather Holland USA 60 Hepatitis-E YES 29-2-2018
+9669 Timothy Mcgee France 69 Flu NO
+4948 Steven Gregory UK 28 Hepatitis-A YES 17-10-2006
+5157 David Wright France 117 Ebola NO
+6803 Jason Greene Greece 83 HPV YES 6-4-1995
+615 Adam Green France 15 Ebola YES 30-12-2019
+3840 Justin Herbert USA 0 HPV YES 16-10-2005
+1513 Megan Carey Canada 73 Anthrax YES 8-8-1997
+4009 Megan Ayala Canada 49 Anthrax NO
+9873 Joshua Carey France 33 Guaroa YES 8-2-1997
+4640 Kyle Herbert Brazil 80 Guaroa YES 28-4-2017
+888 Adam Chapman USA 48 Anaplasmosis YES 26-8-2015
+673 James Carey Canada 73 Flu YES 15-12-2004
+4595 Melissa Dennis Greece 35 Anaplasmosis YES 26-12-2015
+4770 John Henderson USA 90 Hepatitis-C NO
+6438 Matthew White USA 78 Hanta YES 15-10-2004
+3214 Brandon Hammond UK 94 Anthrax YES 8-8-1997
+6835 James Dennis Canada 115 Anaplasmosis NO
+2238 Ryan White USA 78 Flu YES 5-2-1994
+4378 James Peterson UK 58 Hepatitis-E NO
+6755 Daniel Dennis Greece 35 Hepatitis-E YES 19-10-2008
+6409 Joseph Ayala Canada 49 Typhus YES 22-6-2011
+1409 Jennifer Ayala Greece 89 Hepatitis-A YES 27-4-2016
+2581 Amanda Hopkins Canada 61 Typhus YES 12-4-2001
+2646 Kevin Duncan USA 6 Hepatitis-E NO
+6591 Michael Frazier France 111 Smallpox NO
+600 Ryan Herbert USA 0 Rabies YES 13-10-2002
+3212 Andrew Martinez Brazil 92 Flu YES 15-8-2004
+8936 Jennifer Moore Brazil 56 Hepatitis-C YES 14-6-2003
+3609 Jonathan Ayala France 9 Flu NO
+3765 Jonathan Adkins France 45 Typhus NO
+5784 John Santiago USA 24 Typhus YES 12-6-2001
+3540 Adam Holland USA 60 Dengue NO
+7369 Christina Ayala Canada 49 Hepatitis-A YES 27-2-2016
+947 Robert Dawson Greece 107 Dengue NO
+3077 Thomas Wright Greece 77 COVID-19 YES 10-4-1999
+4202 Elizabeth Hart Brazil 2 Hanta NO
+129 John Ayala France 9 Hepatitis-B YES 9-12-1998
+3470 Kyle Patel Brazil 110 Smallpox NO
+2031 Matthew Frazier France 111 Anaplasmosis YES 26-10-2015
+6106 Stephanie Alvarado UK 106 Ebola NO
+5706 John Alvarado USA 66 COVID-19 NO
+7614 David Hammond USA 54 HIV NO
+8435 Robert Dennis Greece 35 Hepatitis-D YES 11-6-2000
+2499 Matthew Larson France 99 Hepatitis-A YES 27-8-2016
+1850 Jason Henderson Brazil 50 Flu NO
+2523 Heather Greene France 3 Smallpox NO
+6899 Thomas Larson Greece 59 Ebola NO
+1159 Eric Gardner Canada 79 Flu YES 5-6-1994
+9504 Heather Santiago USA 24 HIV NO
+1797 Matthew Wright France 117 Typhus NO
+9227 Brian Dawson Greece 107 Rabies YES 23-12-2012
+1823 Elizabeth Simpson Greece 23 Smallpox NO
+9644 Robert Schmidt Brazil 44 Anthrax YES 8-8-1997
+7281 Heather Smith France 81 Ebola YES 30-12-2019
+8904 John Santiago USA 24 Typhus NO
+3843 Jonathan Greene France 3 Hepatitis-B YES 19-4-2008
+218 Brian Peterson Brazil 98 Hepatitis-B NO
+60 Jonathan Holland USA 60 Hepatitis-C NO
+671 Daniel Frazier Greece 71 HPV NO
+5463 Matthew Simpson France 63 Dengue NO
+5932 Ashley Martinez UK 52 Junin YES 12-2-2001
+5001 David Smith France 81 Ebola NO
+824 Jennifer Santiago Brazil 104 Hanta YES 15-10-2004
+1367 Jessica Kennedy Greece 47 Smallpox YES 24-12-2013
+5391 David Frazier France 111 Hanta YES 5-10-1994
+8132 William Martinez Brazil 92 Ebola YES 30-10-2019
+952 Brandon Holt UK 112 Rabies NO
+9203 Kyle Greene Greece 83 Marburg NO
+5372 Elizabeth Martinez Brazil 92 COVID-19 NO
+8243 Andrew Greene Greece 83 COVID-19 YES 10-12-1999
+7113 Ryan Carey France 33 Junin NO
+3371 Jason Wilson Greece 11 Junin YES 22-4-2011
+5249 Brian Ayala Greece 89 Typhus NO
+1978 Eric Peterson UK 58 Ebola NO
+6383 Anthony Simpson Greece 23 Hepatitis-B YES 19-10-2008
+2579 Jennifer Larson Greece 59 Hanta NO
+3803 William Greene Greece 83 Junin NO
+8248 Sarah Chapman UK 88 Smallpox NO
+3284 Daniel Schmidt Brazil 44 Typhus NO
+9950 Jennifer Patel Brazil 110 Hepatitis-D YES 11-2-2000
+526 Sarah Duncan UK 46 Junin YES 22-6-2011
+5182 Steven Cooper UK 22 Smallpox YES 14-12-2003
+2533 Christina Watts Canada 13 Hepatitis-E NO
+5613 Timothy Watts France 93 Hepatitis-E NO
+4104 David Santiago USA 24 Dengue YES 17-4-2006
+1875 Matthew Dennis France 75 Smallpox NO
+2559 Nicole Gardner France 39 HPV NO
+3784 Christopher Santiago UK 64 Smallpox YES 24-2-2013
+8939 Daniel Larson Greece 59 Marburg YES 23-12-2012
+664 Christopher Santiago UK 64 Hanta NO
+9657 Nicole Liu France 57 Hepatitis-C YES 24-10-2013
+1684 Amanda Schmidt UK 4 Ebola YES 20-6-2009
+6997 Brandon Wright Canada 37 Hepatitis-B NO
+9173 Daniel Watts Greece 53 Smallpox YES 24-8-2013
+1673 Thomas Carey Greece 113 Flu YES 5-12-1994
+9230 Anthony Patel Brazil 110 Hepatitis-E YES 9-8-1998
+1753 Christina Carey Canada 73 Hepatitis-B NO
+7838 Kyle White Brazil 38 Ebola NO
+577 Megan Liu Canada 97 Anthrax YES 18-8-2007
+8002 Amanda Hart UK 82 Junin NO
+7123 Nicholas Greene Canada 43 Hepatitis-D NO
+5173 Nicholas Watts Canada 13 Flu YES 5-4-1994
+4381 Joseph Hopkins Canada 61 Ebola NO
+9518 Jessica White Brazil 38 Smallpox YES 4-8-1993
+3276 Michael Robertson USA 36 Hepatitis-E YES 19-2-2008
+921 Nicole Smith France 81 Marburg NO
+5306 Jessica Alvarado Brazil 26 Dengue NO
+6837 John Wright France 117 Hanta NO
+8572 Megan Martinez UK 52 Marburg NO
+693 Adam Watts France 93 HIV NO
+9040 Megan Herbert UK 40 Hepatitis-D YES 1-12-1990
+5148 Michael Gregory USA 108 Typhus NO
+5898 David Peterson USA 18 Rabies YES 23-8-2012
+9866 Kyle Alvarado Brazil 26 Ebola YES 10-6-1999
+3881 William Smith Greece 41 Dengue YES 27-12-2016
+3411 Justin Wilson France 51 Ebola YES 10-6-1999
+394 Ashley Khan UK 34 Anaplasmosis YES 26-8-2015
+5863 Joseph Simpson Canada 103 COVID-19 YES 10-8-1999
+5099 Elizabeth Larson Greece 59 HIV NO
+2394 Ryan Khan USA 114 Marburg YES 23-2-2012
+9690 Justin Henderson USA 90 Hepatitis-E YES 19-2-2008
+2084 Jason Schmidt Brazil 44 Flu NO
+8598 Justin White USA 78 Ebola NO
+6680 Robert Herbert Brazil 80 Flu NO
+1849 Brandon Ayala Canada 49 Hepatitis-D YES 11-10-2000
+2114 Daniel Khan Brazil 74 Typhus NO
+5684 Elizabeth Schmidt Brazil 44 Rabies YES 23-12-2012
+7911 Kevin Frazier France 111 HIV YES 11-10-2000
+4032 Ryan Holt USA 72 Hepatitis-A YES 27-6-2016
+7886 Daniel Duncan Brazil 86 Hepatitis-A YES 27-10-2016
+8835 Jonathan Dennis France 75 Junin NO
+260 Anthony Holland Brazil 20 Rabies YES 23-10-2012
+9472 Steven Holt UK 112 Typhus NO
+5190 Matthew Patel USA 30 Dengue YES 7-2-1996
+1629 Adam Mcgee France 69 Marburg NO
+3735 Adam Green France 15 HIV NO
+4065 David Mejia France 105 Flu NO
+3046 Ashley Duncan UK 46 Flu NO
+6798 John White USA 78 HPV NO
+8981 Robert Hopkins Greece 101 Hepatitis-E YES 9-6-1998
+878 William White Brazil 38 Dengue YES 17-8-2006
+5397 Ryan Wright France 117 Ebola NO
+3284 Daniel Schmidt Brazil 44 Marburg YES 3-6-1992
+6635 Jennifer Dennis Greece 35 Hepatitis-A NO
+8235 Joshua Dennis France 75 Anaplasmosis YES 26-12-2015
+259 Nicholas Larson Canada 19 Flu NO
+1411 Amanda Wilson Canada 91 Hepatitis-B YES 9-6-1998
+8459 Thomas Larson Greece 59 Hanta NO
+5911 Stephanie Frazier Canada 31 HPV NO
+782 Jessica Cooper Brazil 62 Rabies YES 23-12-2012
+9503 Anthony Simpson Greece 23 Dengue YES 27-2-2016
+7139 Jessica Larson Greece 59 Junin NO
+2393 Andrew Carey Greece 113 HPV NO
+6717 David Wright France 117 Hepatitis-B NO
+1321 Steven Smith Canada 1 Rabies YES 13-10-2002
+224 Elizabeth Santiago Brazil 104 Rabies YES 3-6-1992
+92 Andrew Martinez Brazil 92 Typhus NO
+7312 Sarah Holt UK 112 COVID-19 NO
+230 Thomas Patel Brazil 110 Rabies YES 3-10-1992
+9142 Brandon Cooper UK 22 Anthrax NO
+1567 Amanda Kennedy Canada 7 Smallpox YES 14-10-2003
+493 Nicholas Watts Canada 13 Ebola YES 30-10-2019
+9455 Jason Green Greece 95 Hepatitis-C NO
+4196 Brian Robertson Brazil 116 Anaplasmosis YES 16-2-2005
+8215 Nicholas Green Canada 55 Marburg NO
+1459 Brandon Larson Canada 19 Marburg NO
+734 Melissa Hammond Brazil 14 Dengue NO
+1902 Adam Cooper USA 102 Anthrax YES 18-2-2007
+7653 David Watts France 93 Flu YES 5-2-1994
+8390 Jennifer Patel Brazil 110 Hepatitis-B YES 29-4-2018
+3437 Jennifer Wright Greece 77 Hanta NO
+5066 Thomas Alvarado Brazil 26 Flu YES 5-6-1994
+2006 Jason Duncan Brazil 86 Hepatitis-E NO
+6458 Brian Peterson Brazil 98 Anaplasmosis NO
+1582 Stephanie Cooper UK 22 Ebola YES 10-8-1999
+1478 Thomas White Brazil 38 Guaroa YES 8-8-1997
+2301 Michael Hopkins France 21 Junin YES 22-4-2011
+6003 Timothy Greene France 3 HIV YES 1-12-1990
+2242 Sarah Hart UK 82 Hepatitis-B NO
+205 James Adkins Canada 85 Rabies NO
+6443 Daniel Greene Greece 83 Junin NO
+8221 Megan Hopkins Canada 61 Anaplasmosis YES 26-10-2015
+998 Brian White Brazil 38 Hepatitis-A YES 27-4-2016
+1643 Jennifer Greene Greece 83 Hepatitis-A YES 17-8-2006
+3407 Andrew Kennedy Greece 47 Junin YES 22-4-2011
+7292 Kyle Martinez Brazil 92 Hepatitis-C NO
+1206 Timothy Duncan USA 6 Anthrax YES 18-10-2007
+1977 Heather Liu France 57 Junin YES 12-10-2001
+9156 Adam Robertson USA 36 Rabies YES 23-6-2012
+1818 Nicole Peterson USA 18 HIV YES 11-2-2000
+5439 Justin Gardner France 39 Junin NO
+5452 Megan Martinez UK 52 COVID-19 YES 20-2-2009
+7766 Jennifer Duncan Brazil 86 Ebola NO
+2277 Ryan Wright France 117 Smallpox YES 14-2-2003
+8848 Steven Chapman UK 88 Anaplasmosis YES 6-6-1995
+2083 Brandon Greene Canada 43 Anaplasmosis YES 16-6-2005
+4565 Jessica Adkins Greece 5 Smallpox YES 24-4-2013
+2639 Anthony Gardner Greece 119 COVID-19 YES 20-12-2009
+457 Eric Liu Canada 97 Anthrax YES 8-10-1997
+4596 Kevin Robertson USA 36 Hepatitis-C YES 14-6-2003
+7595 Elizabeth Dennis Greece 35 Anthrax NO
+8823 David Simpson France 63 Hepatitis-A YES 27-12-2016
+694 Megan Hammond UK 94 Anaplasmosis YES 6-10-1995
+2634 Jonathan Khan USA 114 HPV NO
+7606 Christopher Duncan UK 46 Hanta NO
+3308 Melissa Gregory Brazil 68 Marburg NO
+9564 David Schmidt USA 84 Hepatitis-D YES 1-10-1990
+1615 Brandon Green Canada 55 HIV YES 11-8-2000
+371 William Wilson Greece 11 COVID-19 YES 20-10-2009
+2283 Jonathan Greene France 3 Flu YES 25-2-2014
+7166 Elizabeth Duncan Brazil 86 Hepatitis-E YES 19-8-2008
+2742 John Cooper USA 102 HPV NO
+5085 Ryan Adkins France 45 Smallpox YES 14-12-2003
+4320 Adam Herbert USA 0 Typhus NO
+473 Jennifer Carey Greece 113 Anthrax YES 18-6-2007
+5544 Joshua Santiago USA 24 Anaplasmosis NO
+1415 Robert Green Greece 95 Hepatitis-D YES 1-2-1990
+9723 John Greene France 3 Marburg YES 13-4-2002
+3281 Jennifer Smith Greece 41 Hepatitis-B NO
+5969 Jessica Ayala Greece 89 Smallpox NO
+2535 Michael Green France 15 Flu YES 5-2-1994
+3448 Brandon Chapman UK 88 COVID-19 YES 10-6-1999
+9260 Jason Holland Brazil 20 Hepatitis-C YES 14-4-2003
+4941 Heather Hopkins France 21 Rabies YES 3-12-1992
+4489 Ashley Ayala Canada 49 Flu YES 25-6-2014
+8975 Jennifer Green Greece 95 Hepatitis-B NO
+686 Brian Duncan Brazil 86 Marburg NO
+9694 Stephanie Hammond UK 94 Hepatitis-C NO
+1796 Jessica Robertson Brazil 116 Guaroa YES 18-10-2007
+4182 David Cooper USA 102 Hanta YES 5-6-1994
+4705 Nicholas Mejia Canada 25 Smallpox NO
+7422 John Cooper USA 102 Flu YES 25-8-2014
+5797 Nicholas Wright Canada 37 COVID-19 YES 20-6-2009
+6305 Anthony Mejia Greece 65 Guaroa NO
+2599 Nicholas Gardner Canada 79 Hepatitis-B NO
+3020 Jason Holland Brazil 20 Dengue YES 7-8-1996
+1373 Daniel Watts Greece 53 Flu NO
+940 Ashley Holland UK 100 Hepatitis-E NO
+1300 Joseph Holland UK 100 Dengue YES 27-8-2016
+796 Brandon Robertson UK 76 Anaplasmosis NO
+9620 Anthony Holland Brazil 20 COVID-19 YES 20-2-2009
+1919 Daniel Gardner Greece 119 Hepatitis-D NO
+5283 Justin Greene France 3 Anaplasmosis NO
+8940 David Holland USA 60 Flu NO
+6589 Christina Mcgee Canada 109 Dengue NO
+6711 Matthew Frazier France 111 Anaplasmosis YES 26-4-2015
+8721 Nicole Smith France 81 Typhus YES 22-2-2011
+1462 Sarah Cooper UK 22 Hanta YES 5-4-1994
+9309 Heather Mcgee France 69 Hepatitis-D NO
+3266 Elizabeth Alvarado Brazil 26 Anthrax YES 28-4-2017
+387 Timothy Dawson France 27 Guaroa YES 18-6-2007
+6098 Andrew Peterson Brazil 98 COVID-19 NO
+9554 Kyle Khan Brazil 74 Hepatitis-C NO
+8464 Christopher Santiago UK 64 Hepatitis-C NO
+7316 Brian Robertson Brazil 116 Smallpox YES 4-4-1993
+6195 Kevin Dennis France 75 Junin NO
+6372 Ryan Martinez USA 12 Hepatitis-C NO
+6708 Michael Gregory USA 108 Junin YES 22-8-2011
+9040 Megan Herbert UK 40 Typhus YES 12-8-2001
+8191 Christopher Frazier Canada 31 Hanta NO
+5421 Michael Hopkins France 21 Anthrax YES 8-2-1997
+878 William White Brazil 38 Hepatitis-D NO
+5146 Christina Alvarado UK 106 Hepatitis-C NO
+6637 Amanda Wright Canada 37 Marburg YES 13-4-2002
+6851 Anthony Wilson Greece 11 Hanta NO
+7350 Justin Patel USA 30 Anaplasmosis NO
+2938 Joseph Peterson UK 58 Ebola NO
+2337 Timothy Liu France 57 Smallpox NO
+9966 Jonathan Duncan USA 6 Guaroa NO
+3644 Jason Schmidt Brazil 44 Ebola NO
+1730 Andrew Henderson Brazil 50 Guaroa NO
+5471 Robert Frazier Greece 71 HIV YES 1-4-1990
+2216 Melissa Moore Brazil 56 Marburg YES 13-12-2002
+4042 Nicholas Hart UK 82 Flu YES 5-10-1994
+1123 Megan Greene Canada 43 Ebola NO
+541 Steven Hopkins Canada 61 Smallpox YES 4-2-1993
+4034 Jason Khan Brazil 74 Smallpox YES 24-6-2013
+1243 Steven Greene Canada 43 Hepatitis-D NO
+1204 Steven Schmidt UK 4 Ebola YES 20-10-2009
+9137 Robert Liu Greece 17 HPV NO
+852 Kevin Martinez USA 12 Rabies YES 13-10-2002
+6975 Kevin Green France 15 Rabies NO
+7572 Joshua Martinez USA 12 Guaroa NO
+8914 Stephanie Khan UK 34 Hepatitis-C YES 24-8-2013
+851 Melissa Wilson Greece 11 COVID-19 NO
+4840 Ashley Herbert UK 40 Rabies YES 3-4-1992
+8110 Christina Patel UK 70 HIV YES 1-4-1990
+8762 Anthony Hart Brazil 2 Hepatitis-B YES 29-8-2018
+5269 Ashley Mcgee Canada 109 Guaroa YES 18-12-2007
+8638 Sarah White UK 118 COVID-19 NO
+6016 James Moore UK 16 HPV NO
+9178 Joseph Peterson UK 58 Rabies YES 23-12-2012

@@ -1,0 +1,55 @@
+7471 Stephanie Frazier Brazil 31 Ebola YES 3-6-1992
+9247 Ashley Kennedy Brazil 7 Ebola NO
+7489 Christopher Ayala Brazil 49 Rabies NO
+5083 Joseph Greene Brazil 43 Typhus NO
+8731 Steven Wilson Brazil 91 Hepatitis-B YES 24-8-2013
+7435 Nicholas Dennis Brazil 115 Hepatitis-A YES 6-10-1995
+1567 Amanda Kennedy Brazil 7 Hepatitis-B NO
+8671 Joseph Frazier Brazil 31 Smallpox YES 9-4-1998
+5035 Ashley Dennis Brazil 115 Hepatitis-B NO
+1261 Joseph Hopkins Brazil 61 Ebola YES 13-10-2002
+8791 Brandon Frazier Brazil 31 Hepatitis-B NO
+3313 Christina Carey Brazil 73 Typhus YES 7-10-1996
+2647 Steven Kennedy Brazil 7 HIV NO
+1537 Brandon Liu Brazil 97 HIV YES 24-2-2013
+637 Joseph Wright Brazil 37 Hepatitis-B YES 1-12-1990
+3433 Christopher Carey Brazil 73 HIV YES 16-6-2005
+4585 Stephanie Mejia Brazil 25 HIV YES 15-12-2004
+4105 James Mejia Brazil 25 Flu NO
+2509 Joseph Mcgee Brazil 109 HIV NO
+6811 Nicholas Wilson Brazil 91 HPV NO
+3745 Christopher Mejia Brazil 25 Smallpox NO
+4489 Ashley Ayala Brazil 49 Hepatitis-B NO
+973 Christina Watts Brazil 13 Hepatitis-B NO
+5815 Ashley Green Brazil 55 Hepatitis-A NO
+3793 James Carey Brazil 73 Ebola NO
+4195 Stephanie Dennis Brazil 115 Smallpox YES 26-12-2015
+685 Stephanie Adkins Brazil 85 HPV YES 6-8-1995
+6649 Sarah Ayala Brazil 49 Hepatitis-B YES 8-4-1997
+7039 Sarah Gardner Brazil 79 COVID-19 YES 7-6-1996
+8539 Christina Larson Brazil 19 Smallpox YES 30-10-2019
+8887 Steven Kennedy Brazil 7 Ebola NO
+2047 Sarah Kennedy Brazil 7 Ebola YES 30-10-2019
+5767 Steven Kennedy Brazil 7 Hepatitis-B NO
+6763 Brandon Greene Brazil 43 COVID-19 NO
+9379 Sarah Larson Brazil 19 Ebola NO
+1441 Christina Smith Brazil 1 YES 14-4-2003
+3769 Nicholas Ayala Brazil 49 HIV YES 20-6-2009
+7975 Sarah Green Brazil 55 Hepatitis-A NO
+4573 James Watts Brazil 13 HPV YES 6-12-1995
+3229 Megan Mcgee Brazil 109 Rabies YES 24-4-2013
+4711 Megan Frazier Brazil 31 Flu NO
+8455 Megan Green Brazil 55 Hepatitis-B NO
+5479 Sarah Gardner Brazil 79 HIV NO
+5341 Christina Hopkins Brazil 61 COVID-19 YES 16-4-2005
+9217 Joseph Liu Brazil 97 Rabies YES 28-4-2017
+6667 Christina Dawson Brazil 67 Typhus YES 21-10-2010
+8617 Christina Liu Brazil 97 YES 10-2-1999
+9925 Sarah Adkins Brazil 85 Typhus YES 28-10-2017
+7993 Christina Carey Brazil 73 Typhus NO
+8785 James Mejia Brazil 25 Hepatitis-A NO
+7033 Joseph Carey Brazil 73 Hepatitis-A NO
+5971 Ashley Wilson Brazil 91 Ebola NO
+9157 Megan Wright Brazil 37 COVID-19 NO
+2143 Christina Simpson Brazil 103 HPV YES 27-12-2016
+8623 Ashley Simpson Brazil 103 Hepatitis-B NO
